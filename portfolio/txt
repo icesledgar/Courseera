@@ -1,0 +1,5 @@
+.main {
+    background-color: yellow;
+    margin: 9px 143px 21px;
+    border: 6px solid green;
+}
